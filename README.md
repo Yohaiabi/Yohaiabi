@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="700" alt="Hello World!"/>
+<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="600" alt="Hello World!"/>
 </div>
 
 ## <div align="center">I'm Yohai, Information Systems Management student specializing in Data Science</div>
