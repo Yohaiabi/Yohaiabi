@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="500" alt="Hello World!"/>
+<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="700" alt="Hello World!"/>
 </div>
 
 ## <div align="center">I'm Yohai, Information Systems Management student specializing in Data Science</div>
 
 - ### I love studying new things and strive to improve every day.
 
-- ### My passion lies in web development, particularly with HTML5, CSS, JavaScript, and React
+- ### My passion lies in web development, particularly with HTML5, CSS, JavaScript, and React.
 
 - ### Currently, I am working on developing my skills, with a focus on React.
 
