@@ -61,4 +61,6 @@
 
 <br/>
 
-<div align="center">See ya ALL!</div>
+<div align="center">
+<p>See ya ALL!</p>
+</div>
