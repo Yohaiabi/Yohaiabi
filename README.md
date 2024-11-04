@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="500" />
+<img src="https://media1.tenor.com/m/7ZFzI_xgRAcAAAAd/deadpool-hello-there.gif" align="center" height="300" width="500" alt="Hello World!"/>
 </div>
 
 ## <div align="center">I'm Yohai, Information Systems Management student specializing in Data Science</div>
@@ -61,24 +61,4 @@
 
 <br/>
 
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">See ya ALL!</div>
