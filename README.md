@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://yohaiabi.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My%20Portfolio-0d6efd?style=for-the-badge&logo=githubpages&logoColor=fff" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF542E?style=for-the-badge&logo=githubpages&logoColor=fff" />
   </a>
 </p>
 
@@ -92,9 +92,3 @@
 <a href="https://www.linkedin.com/in/yohaii/">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
-<br/>
-
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohaiabi&layout=compact" align="left" />
